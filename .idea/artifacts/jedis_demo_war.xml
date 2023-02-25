@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jedis_demo:war">
+    <output-path>$PROJECT_DIR$/src/redis/jedis_demo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jedis_demo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jedis_demo.war">
+      <element id="artifact" artifact-name="jedis_demo:war exploded" />
+    </root>
+  </artifact>
+</component>

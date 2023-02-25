@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/src/git/gitdemo" />
+    <file type="web" url="file://$PROJECT_DIR$/src/maven高级/ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/src/redis/jedis_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/src/spring/bean的实例化和生命周期" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc_bean加载控制" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc_rest_case" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc_rest风格" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc_拦截器interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc入门" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc参数传递" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc响应" />
+    <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc路径映射和参数传递初识" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/git/gitdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/src/redis/jedis_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/src/redis/springdataredis_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/集合注入/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/DI自动装配/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/AOP通知类型/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/spring事务/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/Ioc_DI入门案例/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/IOC_DI注解初识/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/bean的实例化和生命周期/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/AOP_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/IOC_DI注解管理第三方bean/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/properties文件的DI注入/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/spring整合mybatis和junit/pom.xml" />
+        <option value="$PROJECT_DIR$/src/maven高级/ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/src/maven高级/maven_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/src/maven高级/maven_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/src/maven高级/maven_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/ssm大案例/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc入门/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc响应/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc参数传递/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc_rest风格/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc_bean加载控制/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc路径映射和参数传递初识/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springmvc/springmvc_拦截器interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_09_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_03_读取配置信息/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_04_profile/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_07_整合junit/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_08_整合mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_06_配置文件的优先级问题/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springboot/springboot_05_maven_and_boot多环境冲突/pom.xml" />
+        <option value="$PROJECT_DIR$/src/mybatisplus/mybatisplus_02_dql/pom.xml" />
+        <option value="$PROJECT_DIR$/src/mybatisplus/mybatisplus_03_dml/pom.xml" />
+        <option value="$PROJECT_DIR$/src/mybatisplus/mybatisplus_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/case_10000_time/pom.xml" />
+        <option value="$PROJECT_DIR$/case_baiduwangpan_trim/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>

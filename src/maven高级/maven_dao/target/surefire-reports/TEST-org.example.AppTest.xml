@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="org.example.AppTest" time="0.004" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2022.2.2"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.1+13-LTS"/>
+    <property name="sun.boot.library.path" value="D:\JavaTools\jdk-11\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\luoruixin\Desktop\Java学习笔记\JavaFramework\src\maven高级\maven_dao"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\luoruixin\Desktop\Java学习笔记\JavaFramework\src\maven高级\maven_dao"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.1+13-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\LUORUI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="D:\JavaTools\IntelliJ IDEA 2022.2.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="D:\JavaTools\Maven\apache-maven-3.6.1\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\JavaTools\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\VMware\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\JavaTools\jdk-11\bin;D:\JavaTools\mysql\mysql-5.7.38-winx64\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;D:\PythonTools\Graphviz\bin;C:\Program Files\Git\cmd;D:\Git\cmd;D:\Git\mingw64\bin;D:\Git\usr\bin;D:\JavaTools\Maven\apache-maven-3.6.1\bin;D:\JavaTools\Maven\apache-maven-3.8.6\bin;D:\PythonTools\python3.10\;D:\PythonTools\python3.10\Scripts\;D:\PythonTools\Anaconda3.9;D:\PythonTools\Anaconda3.9\Library\mingw-w64\bin;D:\PythonTools\Anaconda3.9\Library\usr\bin;D:\PythonTools\Anaconda3.9\Library\bin;D:\PythonTools\Anaconda3.9\Scripts;C:\Users\luoruixin\AppData\Local\Microsoft\WindowsApps;D:\DataGrip\DataGrip 2022.2.5\bin;D:\PythonTools\PyCharm 2022.2.2\bin;D:\vscode\Microsoft VS Code\bin;C:\Users\luoruixin\AppData\Local\JetBrains\Toolbox\scripts;%DataSpell%;%WebStorm%;%PhpStorm%;%CLion%;C:\Program Files (x86)\Tencent\QQGameTempest\Hall.57915\;."/>
+    <property name="maven.conf" value="D:\JavaTools\Maven\apache-maven-3.6.1/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\luoruixin"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="luoruixin"/>
+    <property name="java.class.path" value="D:\JavaTools\Maven\apache-maven-3.6.1\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.2.2 -s D:\JavaTools\Maven\apache-maven-3.6.1\conf\settings.xml install"/>
+    <property name="java.home" value="D:\JavaTools\jdk-11"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\JavaTools\Maven\apache-maven-3.6.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="org.example.AppTest" name="testApp" time="0.004"/>
+</testsuite>

@@ -1,0 +1,13 @@
+lesson: SpringBoot
+
+server:
+  port: 80
+
+enterprise:
+  name: luoxiaohei
+  age: 20
+  tel: 15298059740
+  subject:
+    - Java
+    - 前端
+    - 大数据

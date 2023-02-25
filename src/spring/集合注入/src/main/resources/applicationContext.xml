@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="bookDao" class="dao.impl.BookDaoImpl">
+        <property name="array">
+            <array>
+                <value>100</value>
+                <value>200</value>
+                <value>300</value>
+<!--                <ref bean="beanId"></ref>--><!--如果集合中是引用类型就这样写-->
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>itcast</value>
+                <value>luoruixin</value>
+                <value>nb</value>
+            </list>
+        </property>
+        <property name="set">
+            <set>
+                <value>itcast</value>
+                <value>luoruixin</value>
+                <value>nb</value>
+                <value>nb</value><!--会自动过滤-->
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="country" value="china"/>
+                <entry key="province" value="sichuan"/>
+                <entry key="city" value="leshan"/>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="country">china</prop>
+                <prop key="province">sichuan</prop>
+                <prop key="city">leshan</prop>
+            </props>
+        </property>
+    </bean>
+    
+</beans>

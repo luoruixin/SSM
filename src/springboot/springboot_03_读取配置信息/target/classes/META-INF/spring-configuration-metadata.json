@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "enterprise",
+      "type": "com.luoxiaohei.domain.Enterprise",
+      "sourceType": "com.luoxiaohei.domain.Enterprise"
+    }
+  ],
+  "properties": [
+    {
+      "name": "enterprise.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.luoxiaohei.domain.Enterprise"
+    },
+    {
+      "name": "enterprise.name",
+      "type": "java.lang.String",
+      "sourceType": "com.luoxiaohei.domain.Enterprise"
+    },
+    {
+      "name": "enterprise.subject",
+      "type": "java.lang.String[]",
+      "sourceType": "com.luoxiaohei.domain.Enterprise"
+    },
+    {
+      "name": "enterprise.tel",
+      "type": "java.lang.String",
+      "sourceType": "com.luoxiaohei.domain.Enterprise"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_bean_load:war">
+    <output-path>$PROJECT_DIR$/src/springmvc/springmvc_bean加载控制/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring_bean_load</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring_bean_load.war">
+      <element id="artifact" artifact-name="spring_bean_load:war exploded" />
+    </root>
+  </artifact>
+</component>
