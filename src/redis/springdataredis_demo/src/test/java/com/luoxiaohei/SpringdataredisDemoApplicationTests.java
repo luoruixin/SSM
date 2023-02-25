@@ -19,6 +19,9 @@ class SpringdataredisDemoApplicationTests {
 	@Autowired
 	private RedisTemplate redisTemplate;
 
+	/**
+	 * 操作String型的数据
+	 */
 	@Test
 	void testString() {
 		ValueOperations valueOperations = redisTemplate.opsForValue();
