@@ -59,6 +59,7 @@
         <option value="$PROJECT_DIR$/src/mybatisplus/mybatisplus_01_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/case_10000_time/pom.xml" />
         <option value="$PROJECT_DIR$/case_baiduwangpan_trim/pom.xml" />
+        <option value="$PROJECT_DIR$/src/springcache/cache_demo/pom.xml" />
       </list>
     </option>
   </component>

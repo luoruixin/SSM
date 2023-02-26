@@ -39,6 +39,7 @@
         <module name="mybatisplus_03_dml" />
         <module name="springmvc_response" />
         <module name="springboot_01_quickstart" />
+        <module name="cache_demo" />
         <module name="springmvc_rest" />
         <module name="maven_dao" />
         <module name="spring_mybatis" />
@@ -53,6 +54,7 @@
       <module name="AOP获取方法的参数或返回值或异常数据" target="11" />
       <module name="AOP通知类型" target="11" />
       <module name="bean的实例化和生命周期" target="17" />
+      <module name="cache_demo" target="1.8" />
       <module name="case_10000_time" target="11" />
       <module name="case_baiduwangpan_trim" target="11" />
       <module name="Datasource" target="17" />
@@ -95,6 +97,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cache_demo" options="-parameters" />
       <module name="mybatisplus_01_quickstart" options="-parameters" />
       <module name="mybatisplus_02_dql" options="-parameters" />
       <module name="mybatisplus_03_dml" options="-parameters" />

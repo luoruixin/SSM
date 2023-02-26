@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/src/spring/Ioc_DI入门案例/Ioc_DI入门案例.iml" filepath="$PROJECT_DIR$/src/spring/Ioc_DI入门案例/Ioc_DI入门案例.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SSM.iml" filepath="$PROJECT_DIR$/.idea/SSM.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/spring/bean的实例化和生命周期/bean的实例化和生命周期.iml" filepath="$PROJECT_DIR$/src/spring/bean的实例化和生命周期/bean的实例化和生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/springcache/cache_demo/cache_demo.iml" filepath="$PROJECT_DIR$/src/springcache/cache_demo/cache_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/case_10000_time/case_10000_time.iml" filepath="$PROJECT_DIR$/case_10000_time/case_10000_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/case_baiduwangpan_trim/case_baiduwangpan_trim.iml" filepath="$PROJECT_DIR$/case_baiduwangpan_trim/case_baiduwangpan_trim.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/git/gitdemo/gitdemo.iml" filepath="$PROJECT_DIR$/src/git/gitdemo/gitdemo.iml" />
