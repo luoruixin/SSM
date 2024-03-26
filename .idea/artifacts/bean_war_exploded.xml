@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="bean的实例化和生命周期:war exploded">
-    <output-path>$PROJECT_DIR$/src/spring/bean的实例化和生命周期/target/bean的实例化和生命周期</output-path>
+    <output-path>$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/target/02-bean的实例化和生命周期</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -23,9 +23,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/src/spring/bean的实例化和生命周期/target/bean的实例化和生命周期/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/target/02-bean的实例化和生命周期/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="bean的实例化和生命周期/web/Web" />
+      <element id="javaee-facet-resources" facet="02-bean的实例化和生命周期/web/Web" />
     </root>
   </artifact>
 </component>

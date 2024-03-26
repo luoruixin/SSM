@@ -4,7 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/src/git/gitdemo" />
     <file type="web" url="file://$PROJECT_DIR$/src/maven高级/ssm" />
     <file type="web" url="file://$PROJECT_DIR$/src/redis/jedis_demo" />
-    <file type="web" url="file://$PROJECT_DIR$/src/spring/bean的实例化和生命周期" />
+    <file type="web" url="file://$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期" />
     <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc_bean加载控制" />
     <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc_rest_case" />
     <file type="web" url="file://$PROJECT_DIR$/src/springmvc/springmvc_rest风格" />
@@ -60,6 +60,9 @@
         <option value="$PROJECT_DIR$/case_10000_time/pom.xml" />
         <option value="$PROJECT_DIR$/case_baiduwangpan_trim/pom.xml" />
         <option value="$PROJECT_DIR$/src/springcache/cache_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/0 -Ioc_DI入门案例/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/01-Ioc_DI入门案例/pom.xml" />
       </list>
     </option>
   </component>

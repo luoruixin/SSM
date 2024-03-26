@@ -7,12 +7,9 @@ import com.itheima.service.BookService;
 public class BookServiceImpl implements BookService{
     private BookDao bookDao;
     private UserDao userDao;
-
-    public void setBookDao(BookDao bookDao) {
+    //2、构造器注入
+    public BookServiceImpl(BookDao bookDao, UserDao userDao) {
         this.bookDao = bookDao;
-    }
-
-    public void setUserDao(UserDao userDao) {
         this.userDao = userDao;
     }
 
@@ -21,4 +18,13 @@ public class BookServiceImpl implements BookService{
         bookDao.save();
         userDao.save();
     }
+
+    //1、set方法注入
+//    public void setBookDao(BookDao bookDao) {
+//        this.bookDao = bookDao;
+//    }
+//
+//    public void setUserDao(UserDao userDao) {
+//        this.userDao = userDao;
+//    }
 }

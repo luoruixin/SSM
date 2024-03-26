@@ -1,13 +1,13 @@
 <component name="ArtifactManager">
   <artifact type="war" name="bean的实例化和生命周期:war">
-    <output-path>$PROJECT_DIR$/src/spring/bean的实例化和生命周期/target</output-path>
+    <output-path>$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/target</output-path>
     <properties id="maven-jee-properties">
       <options>
         <module>bean的实例化和生命周期</module>
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="bean的实例化和生命周期.war">
+    <root id="archive" name="02-bean的实例化和生命周期.war">
       <element id="artifact" artifact-name="bean的实例化和生命周期:war exploded" />
     </root>
   </artifact>

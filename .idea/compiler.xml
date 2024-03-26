@@ -16,6 +16,7 @@
         <module name="DI自动装配" />
         <module name="AOP_quickstart" />
         <module name="ssm" />
+        <module name="01-" />
         <module name="maven_pojo" />
         <module name="case_baiduwangpan_trim" />
         <module name="gitdemo" />
@@ -31,7 +32,6 @@
         <module name="case_10000_time" />
         <module name="AOP通知类型" />
         <module name="Datasource" />
-        <module name="Ioc_DI入门案例" />
         <module name="springmvc_rest_case" />
         <module name="springboot_04_profile" />
         <module name="spring_bean_load" />
@@ -50,6 +50,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="01-" target="17" />
+      <module name="01-Ioc_DI入门案例" target="17" />
+      <module name="02-bean的实例化和生命周期" target="17" />
       <module name="AOP_quickstart" target="11" />
       <module name="AOP获取方法的参数或返回值或异常数据" target="11" />
       <module name="AOP通知类型" target="11" />
@@ -61,7 +64,6 @@
       <module name="DI自动装配" target="17" />
       <module name="gitdemo" target="1.5" />
       <module name="IOC_DI_Annotation_development" target="11" />
-      <module name="Ioc_DI入门案例" target="17" />
       <module name="IOC_DI注解管理第三方bean" target="11" />
       <module name="jedis_demo" target="11" />
       <module name="maven_dao" target="11" />

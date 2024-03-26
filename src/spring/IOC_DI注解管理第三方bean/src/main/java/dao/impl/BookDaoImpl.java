@@ -1,6 +1,7 @@
-package spring.IOC_DI注解管理第三方bean.src.main.java.dao.impl;
+package dao.impl;
 
-import spring.IOC_DI注解管理第三方bean.src.main.java.dao.BookDao;
+
+import dao.BookDao;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Repository;

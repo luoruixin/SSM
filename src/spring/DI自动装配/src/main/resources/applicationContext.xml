@@ -14,13 +14,35 @@
 自动装配优先级低于setter注入与构造器注入，同时出现时自动装配配置失效-->
 
 <!--    byType和byName是针对setter进行DI注入的-->
-    <bean id="bookDao" class="com.itheima.dao.impl.BookDaoImpl" autowire="byName">
+<!--    一：注入基本类型-->
+    <bean id="bookDao" class="com.itheima.dao.impl.BookDaoImpl">
+<!--        1、使用setter方法注入-->
+<!--        <property name="databaseName" value="mysql"/>-->
+<!--        <property name="connectionNum" value="100"/>-->
 
-    </bean>
+        <!--        2、构造方法注入-->
+        <constructor-arg name="connectionNum" value="100"/>
+        <constructor-arg name="databaseName" value="mysql"/>
+
+        <!--        2、构造方法注入（根据类型）-->
+<!--        <constructor-arg type="int" value="100"/>-->
+<!--        <constructor-arg type="java.lang.String" value="mysql"/>-->
+
+        <!--        2、构造方法注入（根据参数位置）-->
+<!--        <constructor-arg index="1" value="100"/>-->
+<!--        <constructor-arg index="0" value="mysql"/>-->
+     </bean>
     <bean id="userDao" class="com.itheima.dao.impl.UserDaoImpl"/>
 
-    <bean id="bookService" class="com.itheima.service.impl.BookServiceImpl" autowire="byName">
+<!--    二、注入引用类型-->
+    <bean id="bookService" class="com.itheima.service.impl.BookServiceImpl" autowire="byType">   <!--这里使用了自动装配-->
+<!--       1、使用setter方法注入-->
+<!--        <property name="bookDao" ref="bookDao"/>-->
+<!--        <property name="userDao" ref="userDao"/>-->
 
+<!--        2、构造方法注入-->
+<!--        <constructor-arg name="bookDao" ref="bookDao"/>    &lt;!&ndash;注意这里的name是形参的名称&ndash;&gt;-->
+<!--        <constructor-arg name="userDao" ref="userDao"/>-->
     </bean>
 
 </beans>
