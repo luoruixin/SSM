@@ -17,6 +17,6 @@ public class 通过构造方法造对象 {
         bookDao.save();
 
         //关闭容器
-//        ctx.close();
+        ctx.close();
     }
 }

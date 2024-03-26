@@ -124,7 +124,7 @@ class SpringdataredisDemoApplicationTests {
 	}
 
 	/**
-	 * 操作ZSet类型的数据
+	 * 操作ZSet类型的数据（zset是有序集合）
 	 */
 	@Test
 	public void testZset(){

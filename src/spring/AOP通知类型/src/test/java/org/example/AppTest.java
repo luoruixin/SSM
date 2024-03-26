@@ -1,4 +1,4 @@
-package spring.AOP通知类型.src.test.java.org.example;
+package org.example;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

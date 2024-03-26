@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 
-@Component
+@Component  //告诉spring这是一个bean
 @ConfigurationProperties(prefix = "enterprise") //告诉这个实体类是从配置文件中获取的
 public class Enterprise {
     public String getName() {

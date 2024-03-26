@@ -2,6 +2,8 @@ package com.luoxiaohei;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.core.metadata.IPage;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.luoxiaohei.dao.UserDao;
 import com.luoxiaohei.domain.User;
 import com.luoxiaohei.domain.query.UserQuery;
@@ -97,5 +99,19 @@ class Mybatisplus02DqlApplicationTests {
 		lqw9.likeRight(User::getName,"J");  //实际为 J%,所以有两个
 		List<User> user9=userDao.selectList(lqw9);
 		System.out.println(user9);
+	}
+
+	//分页查询
+	@Test
+	void testGetByPage(){
+		//注意这里要开启一个分页拦截器---》在MpConfig里
+		//2代表查询第几页，3代表一页有多少条
+		IPage page=new Page(2,3);
+		userDao.selectPage(page,null);
+		System.out.println("当前页码值:"+page.getCurrent());
+		System.out.println("每页显示数:"+page.getSize());
+		System.out.println("一共多少页:"+page.getPages());
+		System.out.println("一共多少条:"+page.getTotal());
+		System.out.println("数据:"+page.getRecords());
 	}
 }
