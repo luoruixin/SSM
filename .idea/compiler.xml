@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -13,8 +14,9 @@
         <module name="springboot_09_ssm" />
         <module name="springboot_03_read_data" />
         <module name="springmvc_interceptor" />
-        <module name="DI自动装配" />
-        <module name="AOP_quickstart" />
+        <module name="07-" />
+        <module name="05-" />
+        <module name="03-" />
         <module name="ssm" />
         <module name="01-" />
         <module name="maven_pojo" />
@@ -22,29 +24,30 @@
         <module name="gitdemo" />
         <module name="springmvc_quickstart" />
         <module name="springboot_07_test" />
-        <module name="IOC_DI注解管理第三方bean" />
         <module name="springboot_06_config_file" />
         <module name="springboot_05_maven_and_boot_profile" />
-        <module name="IOC_DI_Annotation_development" />
+        <module name="08-AOP_quickstart" />
         <module name="jedis_demo" />
         <module name="springdataredis_demo" />
         <module name="mybatisplus_01_quickstart" />
         <module name="case_10000_time" />
         <module name="AOP通知类型" />
-        <module name="Datasource" />
         <module name="springmvc_rest_case" />
+        <module name="06-" />
         <module name="springboot_04_profile" />
+        <module name="04-" />
         <module name="spring_bean_load" />
+        <module name="02-" />
         <module name="spring事务" />
         <module name="mybatisplus_03_dml" />
         <module name="springmvc_response" />
+        <module name="05-IOC_DI注解开发初识" />
         <module name="springboot_01_quickstart" />
         <module name="cache_demo" />
         <module name="springmvc_rest" />
         <module name="maven_dao" />
-        <module name="spring_mybatis" />
+        <module name="03-DI自动装配" />
         <module name="springmvc_request_mapping" />
-        <module name="bean的实例化和生命周期" />
         <module name="mybatisplus_02_dql" />
         <module name="springboot_02_base_config" />
       </profile>
@@ -52,19 +55,25 @@
     <bytecodeTargetLevel>
       <module name="01-" target="17" />
       <module name="01-Ioc_DI入门案例" target="17" />
+      <module name="02-" target="17" />
       <module name="02-bean的实例化和生命周期" target="17" />
-      <module name="AOP_quickstart" target="11" />
+      <module name="03-" target="17" />
+      <module name="03-DI自动装配" target="17" />
+      <module name="04-" target="17" />
+      <module name="04-IOC管理第三方bean" target="17" />
+      <module name="05-" target="1.8" />
+      <module name="05-IOC_DI注解开发初识" target="1.8" />
+      <module name="06-" target="1.8" />
+      <module name="06-IOC_DI注解管理第三方bean" target="11" />
+      <module name="07-" target="1.5" />
+      <module name="08-AOP_quickstart" target="1.8" />
       <module name="AOP获取方法的参数或返回值或异常数据" target="11" />
       <module name="AOP通知类型" target="11" />
       <module name="bean的实例化和生命周期" target="17" />
       <module name="cache_demo" target="1.8" />
       <module name="case_10000_time" target="11" />
       <module name="case_baiduwangpan_trim" target="11" />
-      <module name="Datasource" target="17" />
-      <module name="DI自动装配" target="17" />
       <module name="gitdemo" target="1.5" />
-      <module name="IOC_DI_Annotation_development" target="11" />
-      <module name="IOC_DI注解管理第三方bean" target="11" />
       <module name="jedis_demo" target="11" />
       <module name="maven_dao" target="11" />
       <module name="maven_parent" target="11" />
@@ -74,7 +83,6 @@
       <module name="mybatisplus_03_dml" target="11" />
       <module name="set_DI" target="17" />
       <module name="spring_bean_load" target="1.7" />
-      <module name="spring_mybatis" target="1.5" />
       <module name="springboot_01_quickstart" target="11" />
       <module name="springboot_02_base_config" target="11" />
       <module name="springboot_03_read_data" target="11" />

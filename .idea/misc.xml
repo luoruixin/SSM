@@ -61,8 +61,14 @@
         <option value="$PROJECT_DIR$/case_baiduwangpan_trim/pom.xml" />
         <option value="$PROJECT_DIR$/src/springcache/cache_demo/pom.xml" />
         <option value="$PROJECT_DIR$/src/spring/0 -Ioc_DI入门案例/pom.xml" />
-        <option value="$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/pom.xml" />
         <option value="$PROJECT_DIR$/src/spring/01-Ioc_DI入门案例/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/03-DI自动装配/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/04-IOC管理第三方bean/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/05-IOC_DI注解开发初识/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/08-AOP_quickstart/pom.xml" />
       </list>
     </option>
   </component>

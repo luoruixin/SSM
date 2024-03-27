@@ -3,15 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/spring/01-Ioc_DI入门案例/01-.iml" filepath="$PROJECT_DIR$/src/spring/01-Ioc_DI入门案例/01-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/AOP_quickstart/AOP_quickstart.iml" filepath="$PROJECT_DIR$/src/spring/AOP_quickstart/AOP_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/02-.iml" filepath="$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/02-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/03-DI自动装配/03-.iml" filepath="$PROJECT_DIR$/src/spring/03-DI自动装配/03-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/DI自动装配/03-DI自动装配.iml" filepath="$PROJECT_DIR$/src/spring/DI自动装配/03-DI自动装配.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/04-IOC管理第三方bean/04-.iml" filepath="$PROJECT_DIR$/src/spring/04-IOC管理第三方bean/04-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/05-IOC_DI注解开发初识/05-.iml" filepath="$PROJECT_DIR$/src/spring/05-IOC_DI注解开发初识/05-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/IOC_DI注解初识/05-IOC_DI注解开发初识.iml" filepath="$PROJECT_DIR$/src/spring/IOC_DI注解初识/05-IOC_DI注解开发初识.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/06-.iml" filepath="$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/06-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/07-.iml" filepath="$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/07-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/AOP_quickstart/08-AOP_quickstart.iml" filepath="$PROJECT_DIR$/src/spring/AOP_quickstart/08-AOP_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/AOP获取方法的参数或返回值或异常数据.iml" filepath="$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/AOP获取方法的参数或返回值或异常数据.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/spring/AOP通知类型/AOP通知类型.iml" filepath="$PROJECT_DIR$/src/spring/AOP通知类型/AOP通知类型.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/DI自动装配/DI自动装配.iml" filepath="$PROJECT_DIR$/src/spring/DI自动装配/DI自动装配.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/properties文件的DI注入/Datasource.iml" filepath="$PROJECT_DIR$/src/spring/properties文件的DI注入/Datasource.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/IOC_DI注解初识/IOC_DI_Annotation_development.iml" filepath="$PROJECT_DIR$/src/spring/IOC_DI注解初识/IOC_DI_Annotation_development.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/IOC_DI注解管理第三方bean/IOC_DI注解管理第三方bean.iml" filepath="$PROJECT_DIR$/src/spring/IOC_DI注解管理第三方bean/IOC_DI注解管理第三方bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SSM.iml" filepath="$PROJECT_DIR$/.idea/SSM.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/bean的实例化和生命周期.iml" filepath="$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/bean的实例化和生命周期.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/springcache/cache_demo/cache_demo.iml" filepath="$PROJECT_DIR$/src/springcache/cache_demo/cache_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/case_10000_time/case_10000_time.iml" filepath="$PROJECT_DIR$/case_10000_time/case_10000_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/case_baiduwangpan_trim/case_baiduwangpan_trim.iml" filepath="$PROJECT_DIR$/case_baiduwangpan_trim/case_baiduwangpan_trim.iml" />
@@ -25,7 +28,6 @@
       <module fileurl="file://$PROJECT_DIR$/src/mybatisplus/mybatisplus_03_dml/mybatisplus_03_dml.iml" filepath="$PROJECT_DIR$/src/mybatisplus/mybatisplus_03_dml/mybatisplus_03_dml.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/spring/集合注入/set_DI.iml" filepath="$PROJECT_DIR$/src/spring/集合注入/set_DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/springmvc/springmvc_bean加载控制/spring_bean_load.iml" filepath="$PROJECT_DIR$/src/springmvc/springmvc_bean加载控制/spring_bean_load.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/spring整合mybatis和junit/spring_mybatis.iml" filepath="$PROJECT_DIR$/src/spring/spring整合mybatis和junit/spring_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/springboot/springboot_01_quickstart/springboot_01_quickstart.iml" filepath="$PROJECT_DIR$/src/springboot/springboot_01_quickstart/springboot_01_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/springboot/springboot_02_base_config/springboot_02_base_config.iml" filepath="$PROJECT_DIR$/src/springboot/springboot_02_base_config/springboot_02_base_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/springboot/springboot_03_读取配置信息/springboot_03_read_data.iml" filepath="$PROJECT_DIR$/src/springboot/springboot_03_读取配置信息/springboot_03_read_data.iml" />

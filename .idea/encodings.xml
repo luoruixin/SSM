@@ -25,24 +25,24 @@
     <file url="file://$PROJECT_DIR$/src/spring/01-Ioc_DI入门案例/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/02-bean的实例化和生命周期/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/AOP_quickstart/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/AOP_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/03-DI自动装配/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/03-DI自动装配/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/04-IOC管理第三方bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/04-IOC管理第三方bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/05-IOC_DI注解开发初识/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/05-IOC_DI注解开发初识/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/08-AOP_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/08-AOP_quickstart/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/AOP通知类型/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/AOP通知类型/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/DI自动装配/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/DI自动装配/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/IOC_DI注解初识/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/IOC_DI注解初识/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/IOC_DI注解管理第三方bean/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/IOC_DI注解管理第三方bean/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/properties文件的DI注入/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/properties文件的DI注入/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/spring事务/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/spring事务/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/spring整合mybatis和junit/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/spring/spring整合mybatis和junit/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/集合注入/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/spring/集合注入/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/springboot/springboot_01_quickstart/src/main/java" charset="UTF-8" />
