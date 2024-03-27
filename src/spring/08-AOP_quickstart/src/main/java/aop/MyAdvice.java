@@ -9,9 +9,8 @@ import org.springframework.stereotype.Component;
 @Aspect  //告诉spring这是用来做aop的
 public class MyAdvice { //定义通知类
 
-    @Pointcut("execution(void dao.BookDao.save())")
-    private void ptx(){}
-    @Pointcut("execution(void dao.BookDao.update())")  //定义切入点
+//    @Pointcut("execution(void dao.BookDao.update())")  //定义切入点
+    @Pointcut("execution(* *..*Dao.update())")  //通配符定义切入点
     private void pt(){
     }
 

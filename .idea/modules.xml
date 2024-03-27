@@ -11,9 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/src/spring/IOC_DI注解初识/05-IOC_DI注解开发初识.iml" filepath="$PROJECT_DIR$/src/spring/IOC_DI注解初识/05-IOC_DI注解开发初识.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/06-.iml" filepath="$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/06-.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/07-.iml" filepath="$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/07-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/08-AOP_quickstart/08-.iml" filepath="$PROJECT_DIR$/src/spring/08-AOP_quickstart/08-.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/spring/AOP_quickstart/08-AOP_quickstart.iml" filepath="$PROJECT_DIR$/src/spring/AOP_quickstart/08-AOP_quickstart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/AOP获取方法的参数或返回值或异常数据.iml" filepath="$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/AOP获取方法的参数或返回值或异常数据.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/spring/AOP通知类型/AOP通知类型.iml" filepath="$PROJECT_DIR$/src/spring/AOP通知类型/AOP通知类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/09-AOP通知类型/09-.iml" filepath="$PROJECT_DIR$/src/spring/09-AOP通知类型/09-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/spring/AOP通知类型/09-AOP通知类型.iml" filepath="$PROJECT_DIR$/src/spring/AOP通知类型/09-AOP通知类型.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SSM.iml" filepath="$PROJECT_DIR$/.idea/SSM.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/springcache/cache_demo/cache_demo.iml" filepath="$PROJECT_DIR$/src/springcache/cache_demo/cache_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/case_10000_time/case_10000_time.iml" filepath="$PROJECT_DIR$/case_10000_time/case_10000_time.iml" />

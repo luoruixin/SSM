@@ -8,10 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="set_DI" />
-        <module name="AOP获取方法的参数或返回值或异常数据" />
         <module name="springboot_08_mybatis" />
         <module name="springmvc_request_param" />
         <module name="springboot_09_ssm" />
+        <module name="09-" />
         <module name="springboot_03_read_data" />
         <module name="springmvc_interceptor" />
         <module name="07-" />
@@ -19,6 +19,7 @@
         <module name="03-" />
         <module name="ssm" />
         <module name="01-" />
+        <module name="09-AOP通知类型" />
         <module name="maven_pojo" />
         <module name="case_baiduwangpan_trim" />
         <module name="gitdemo" />
@@ -31,7 +32,7 @@
         <module name="springdataredis_demo" />
         <module name="mybatisplus_01_quickstart" />
         <module name="case_10000_time" />
-        <module name="AOP通知类型" />
+        <module name="08-" />
         <module name="springmvc_rest_case" />
         <module name="06-" />
         <module name="springboot_04_profile" />
@@ -66,9 +67,11 @@
       <module name="06-" target="1.8" />
       <module name="06-IOC_DI注解管理第三方bean" target="11" />
       <module name="07-" target="1.5" />
+      <module name="08-" target="1.8" />
       <module name="08-AOP_quickstart" target="1.8" />
+      <module name="09-" target="1.8" />
+      <module name="09-AOP通知类型" target="1.8" />
       <module name="AOP获取方法的参数或返回值或异常数据" target="11" />
-      <module name="AOP通知类型" target="11" />
       <module name="bean的实例化和生命周期" target="17" />
       <module name="cache_demo" target="1.8" />
       <module name="case_10000_time" target="11" />

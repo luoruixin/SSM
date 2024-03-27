@@ -9,7 +9,7 @@ public class App {
         ApplicationContext ctx=new AnnotationConfigApplicationContext(SpringConfig.class);
         BookDao bookDao=ctx.getBean(BookDao.class);
         bookDao.update();
-        System.out.println(bookDao);
+//        System.out.println(bookDao);
         System.out.println(bookDao.getClass());//class com.sun.proxy.$Proxy20--会打印代理对象
     }
 }

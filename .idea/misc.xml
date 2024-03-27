@@ -30,7 +30,6 @@
         <option value="$PROJECT_DIR$/src/spring/AOP_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/src/spring/IOC_DI注解管理第三方bean/pom.xml" />
         <option value="$PROJECT_DIR$/src/spring/properties文件的DI注入/pom.xml" />
-        <option value="$PROJECT_DIR$/src/spring/AOP获取方法的参数或返回值或异常数据/pom.xml" />
         <option value="$PROJECT_DIR$/src/spring/spring整合mybatis和junit/pom.xml" />
         <option value="$PROJECT_DIR$/src/maven高级/ssm/pom.xml" />
         <option value="$PROJECT_DIR$/src/maven高级/maven_dao/pom.xml" />
@@ -69,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/spring/06-IOC_DI注解管理第三方bean/pom.xml" />
         <option value="$PROJECT_DIR$/src/spring/07-spring整合mybatis和junit/pom.xml" />
         <option value="$PROJECT_DIR$/src/spring/08-AOP_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring/09-AOP通知类型/pom.xml" />
       </list>
     </option>
   </component>
